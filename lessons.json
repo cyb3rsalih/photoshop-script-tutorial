@@ -1,0 +1,26 @@
+[
+    {
+        "id":"how-to-script-photoshop",
+        "title":"How to script Photoshop",
+        "todo":[
+            "Learn how to load script",
+            "Write hello world"
+        ]
+    },
+    {
+        "id":"saving-files",
+        "title":"Saving Files",
+        "todo":[
+            "Save file from script",
+            "Learn how to work with paths"
+        ]
+    },
+    {
+        "id":"loading-json",
+        "title":"Loading JSON",
+        "todo":[
+            "Bla bla blaa....",
+            "At atatatata"
+        ]
+    },
+]
